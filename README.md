@@ -8,7 +8,7 @@ Nikki A
   Feb 23, 2024, 11:45 PM
 
   - Max 9
-  - Arch
+  - Arch KDE
   - Steam or Proton.
     - If using steam, i first installed Max using regular Wine and then copy pasted Max files from it to directory of my choice.
     - You only may want to install wine ASIO drivers to proton prefix. Wineasio from aur will probably fail to build, so you need to download latest from github repo and build manually. And then just run wineasio-register on proton prefix.
@@ -22,13 +22,13 @@ bob p
   Oct 26, 2025, 10:06 PM
 
   - Max 8 & 9
-  - CachyOS (with KDE and Wayland)
-  - LUTRIS
+  - CachyOS KDE and Wayland
+  - Lutris
     - Installed MAX as a Windows game 
     - Everything "magically" run. 
     - Default CachyOS setting of windows management (no change in focus prevention etc.)
 
-**
+***
 
 Hannes B
 
