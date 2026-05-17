@@ -1,5 +1,5 @@
-# MaxOnLinux
-### A collection of useful bits and pieces from the Max on Linux thread. 
+# MaxOnLinux (no code only tips and tricks)
+### A collection of useful tips and tricks from the Max on Linux thread. 
 
 ***
 
